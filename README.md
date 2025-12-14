@@ -23,3 +23,12 @@
 
 ## 🎯 Why This Repo?
 Proves self-learning for remote gigs. Fork/star if helpful! [PMI CAPM](https://www.pmi.org/certifications/certified-associate-capm)
+## Week 1 Progress (Domain I)
+
+- Study time: **5/50 hours (10%)**
+- Coverage: Fundamentals, roles, 12 principles, lifecycles, predictive scope/WBS, baselines.
+- Latest mixed quiz (25 Qs): **24/25**
+- Repo structure:
+  - `notes/` – daily summaries
+  - `flashcards/` – Anki-ready cards
+  - `progress/` – day/week logs with scores
